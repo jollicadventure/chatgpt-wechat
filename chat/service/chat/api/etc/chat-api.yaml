@@ -10,13 +10,13 @@ RedisCache:
     Pass: "123456"                                  # redis缓存密码
 
 WeCom:
-  CorpID: "wwxxxxxxxxxxxxxxxxxxxx"                  # 企业微信CorpID
-  DefaultAgentSecret: "55sO-xxxxxxxxxxxxxxxxxxU"    # 企业微信应用 Secret
-  Token: "xxxxxxxxxx"                               # 企业微信应用/客服消息 Token
-  EncodingAESKey: "xxxxxxxxxxxxxxxx"                # 企业微信应用/客服消息 EncodingAESKey
+  CorpID: "wwfb09dda82462c9f4"                  # 企业微信CorpID
+  DefaultAgentSecret: "GUw9r55xxTOM0qaZkqdOEs-hONYSEPEKFL5NtVGiapM"    # 企业微信应用 Secret
+  Token: "EeiQNAq1GPXvE3L"                               # 企业微信应用/客服消息 Token
+  EncodingAESKey: "bnvPkqS0T6b8GGhMW7jbqTSLILC3i5cDqJYmB3pya1Z"                # 企业微信应用/客服消息 EncodingAESKey
 
 OpenAi:
-  Key: "xxxxxxxxxxxxxxxxxxxxx"                      # OpenAi Key
+  Key: "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"                      # OpenAi Key
 
 Response:                                           # 回复配置
     Stream: true                                    # 是否开启流式回复,自动断句（可选）
